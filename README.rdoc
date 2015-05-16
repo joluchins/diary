@@ -1,5 +1,8 @@
 == README
 
+Przepiękna appka do profesjonalnego blogowania zrobiona na warsztatach Rails Girls 16.05.2015!
+Jestem bardzo zadowolona!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
